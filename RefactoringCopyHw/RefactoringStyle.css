@@ -1,0 +1,414 @@
+#mainimg,#qaqas #flower
+{
+
+    width: 1545px;
+    position: relative;
+}
+#qaqas
+{
+    margin: -5px 161px 9px -174px;
+    top: -100px
+}
+#flower
+{
+    margin:0px 0px 1px 82px;
+
+
+
+    left: 150px
+}
+
+.top-part
+{
+
+    height: 40px;
+    text-decoration: none;
+
+
+    display: inline-block;
+    width:100%;
+
+    border: 1px solid black;
+    padding: 5px;
+    background-size: 1122px 36px;
+}
+.vesennaya-skidka
+{
+
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    font-size: 29px;
+    text-decoration: none;
+    -webkit-text-stroke: 1px #a27d7d;
+    text-stroke: 1px #fff;
+    border-radius: 5px;
+
+}
+.navigation
+{
+    background-color: #fff;
+    color: #444;
+    transform: translateX(15.625rem);
+    width: calc(100% - 15.625rem);
+    border-bottom: solid 1px #ecf0f1;
+}
+.navigation
+{
+    background-color: snow;
+    color: #fff;
+    border: none;
+    border-radius: 0;
+    font-size: 30px;
+    height: 4rem;
+    z-index: 4;
+    height: 80px;
+}
+.nav-item
+{
+
+    font-weight: 700;
+    font-size: 30px;
+
+
+    height: 150px;
+    width: 100%;
+}
+.navigation .navigation-container>.navigation-brand {
+    padding: 0 10px 0 25px;
+    max-width: 12.5rem;
+    text-align: center;
+}
+
+.navigation .navigation-container>.navigation-brand {
+    height: 4rem;
+    padding: 6px 15px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+.navbar{
+    margin: -95px 0px 0px -1px;
+    background-color: #e74c3c;
+    height: 1000px;
+    width: 247px;
+}
+
+
+.button-container
+{
+    width: 200px;
+    padding: 0 3em;
+    display: block!important;
+}
+.btn-secondary
+{
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+    border-radius: 15px;
+    color: #fff;
+    background-color: #d12345;
+    border-color: #d12345;
+}
+.btn-secondary
+{
+    text-decoration: none;
+    margin: 0 0 -40px -65px;
+    background: #c908af;
+    border-color: #c908af;
+    font-weight: bold;
+    padding-right: 15px;
+}
+.navigation-menu
+{
+    width: 360px;
+    height: 76px;
+    margin: -24px 39px -23px 813px;
+    display: flex;
+    gap: 100px;
+    padding-right: 8px;
+}
+
+
+.image-user
+{
+    height: 25px;
+    width: 35px;
+}
+.image-message
+{
+    height: 25px;
+    width: 35px;
+}
+.image-earth
+{
+    height: 25px;
+    width: 35px;
+}
+button {
+    background-color: snow;
+
+    border: none;
+    outline: none;
+}
+.language-text
+{
+    text-decoration: none;
+    color: #444;
+    font-family: fantasy, sans-serif;
+}
+
+.message-text
+{
+    text-decoration: none;
+    color: #444;
+    font-family: fantasy,sans-serif;
+}
+.enter-text
+{
+    text-decoration: none;
+   color: #444;
+    font-family: fantasy,sans-serif;
+}
+.button-svaz
+{
+    background-color: white;
+    border: none;
+    outline: none;
+    color: black;
+
+}
+
+.button-language:hover .language-text {
+    color: #74261e;
+}
+
+.button-svaz:hover .message-text
+{
+    color: #74261e;
+}
+.button-enter:hover .enter-text
+{
+    color: #74261e;
+}
+
+
+
+.page-text
+{
+    margin: -941px 0px 0px 256px;
+}
+.index-grid
+{
+    margin: 170px 0px 0px 0px;
+}
+.input-group
+{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: stretch;
+}
+.form-email
+{
+    display: block;
+    width: 355px;
+    height: calc(1.5em + 1rem + 4px);
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 2px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.facebook-banner
+{
+    margin: 0px 118px 0 649px;
+    padding: 1.5rem;
+    position: relative;
+    border: solid 0.5rem #eee;
+    border-color: #cde
+}
+.email-banner
+{
+    height: 208px;
+    margin: -36px 689px -273px 0px;
+    padding: 1.5rem ;
+    position: relative;
+    border: solid 0.5rem #eee;
+    border-color: #cde;
+}
+
+.page-text
+{
+    font-family: sans-serif;
+    color: #444;
+}
+
+.facebook-link
+{
+    text-decoration: none;
+    font-weight: 700;
+    color: #444;
+    box-shadow: inset 0 -2px 0 #f29f97;
+}
+
+.email-link
+{
+    text-decoration: none;
+    font-weight: 700;
+    color: #444;
+    box-shadow: inset 0 -2px 0 #f29f97;
+}
+
+.button-follow
+{
+    border-radius: 15px;
+
+    border-bottom-left-radius: 0;
+
+    height: 62px;
+    border-top-left-radius: 0;
+    background: firebrick;
+    margin: 1px 0px 0px 377px;
+    width: 125px;
+    color: #fff;
+    background-color: #d12345;
+    border-color: #d12345;
+}
+.button-follow:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.button-follow:hover
+{
+background:#ac213c;
+
+}
+.col-md-6
+{
+    margin: -175px 0px 0px 645px;
+}
+.button-enter-refactoring
+{
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color: #fff;
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+    text-decoration: none;
+}
+.button-enter-refactoring:hover
+{
+    background: #e12e1c;
+}
+
+.button-enter-pattern
+{
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color: #fff;
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+    text-decoration: none;
+}
+.button-enter-pattern:hover
+{
+    background: #e12e1c;
+}
+.container-lowermenu
+{
+    background: #e9ecef;
+    margin: 103px 31px 50px 0px;
+    max-width: 1000px;
+    min-width: 1304px;
+    height: 120px;
+    width: 300px;
+
+}
+.ul-lowermenu
+{
+
+    line-height: 6em;
+    display: flex;
+    list-style-type: none;
+    width: 800px;
+    letter-spacing: -1px;
+    justify-content: space-evenly;
+    margin: 0px 166px 0px -70px;
+    font-size: 1.1em;
+
+}
+.facebook-checkmark
+{
+    content: "\f09a";
+}
+
+.image-facebook
+{
+
+    height: 15px;
+    width: 15px;
+}
+.image-littlemassage
+{
+    height: 15px;
+    width: 15px;
+}
+
+.image-github
+{
+    height: 15px;
+    width: 15px;
+}
+
+
+.icon-icon
+{
+    list-style-type: none;
+    margin: -60px -8px 0px 990px;
+    padding: 0px;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-around;
+}
+.container-address
+{
+    color: gray;
+    background: #dee2e6;
+    margin: 15px 0px 4px 1px;
+    height: 120px;
+}
+.terms-of-use
+{
+    margin: -115px 0 0 900px;
+}
+.footer-list
+{
+    list-style-type: none
+}
+.underline:hover
+{
+    text-decoration: underline;
+}
+
+
+

@@ -1,0 +1,88 @@
+body{
+    background: snow;
+    width: 100%;
+    display: flex;
+}
+a{
+
+    text-decoration: none;
+    color:  dimgrey;
+}
+a:hover{
+    color: red;
+}
+
+.navbar
+{
+
+    display: flex;
+}
+.heading-class {
+
+    display: flex;
+    font-family: Calibri;
+}
+
+.navbar-items{
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.second-class{
+
+background: red;
+    width: 1300px;
+    height: 50px;
+    justify-content: space-between;
+;
+    display: flex;
+    list-style-type: none;
+}
+.Filtre-class{
+
+    width: 1300px;
+    justify-content: space-between;
+
+    display: flex;
+    list-style-type: none;
+}
+.Filtre-class2{
+
+border-radius: 20px;
+    width: 1300px;
+
+    justify-content: space-between;
+    display: flex;
+    list-style-type: none;
+}
+.Button-Class{
+    width: 1200px;
+
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.CheckBox
+{
+
+}
+.Filtre-class3
+{
+    width: 1200px;
+    height: 200px;
+
+    display: flex;
+    justify-content: space-between;
+
+    list-style-type: none;
+  ;
+}
+button:active {
+
+    width: 110px;
+    height: 48px;
+}
+
+
